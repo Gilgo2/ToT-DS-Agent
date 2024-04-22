@@ -1,0 +1,5 @@
+Ok given the output you saw Please provide a function that receives a dataframe and returns a string that explains each variable.You should learn something that does not appear in the first output
+You should also call that function in the code, and save it into a variable named exploration_string. I will write the output so we can proceed. The function should do  Data Exploration and Understanding:
+Explore the dataset's structure, features, and target variable.
+Understand the distribution of features and the target variable.
+Identify any missing or erroneous data.

@@ -1,0 +1,14 @@
+pandas
+jupyter
+numpy
+scikit-learn
+pytorch
+transformers
+langchain-core
+langchain-community
+langchain-openai
+ollama
+langchain
+matplotlib
+seaborn
+xgboost

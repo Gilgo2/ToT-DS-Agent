@@ -1,0 +1,3 @@
+1) You are stuck with the same code, please change the function to work completely different while still achieving the same results
+2) Try to do something without pipelines
+
