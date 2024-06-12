@@ -3,4 +3,7 @@ Training the selected machine learning models using the training dataset.
 Tuning hyperparameters to optimize model performance.
 Employing techniques like cross-validation to assess model generalization and prevent overfitting.
 Evaluating model performance on the validation set using appropriate metrics such as accuracy, precision, recall, F1-score, etc.
-The dataframe is already split into X_train, X_test, y_train, y_test. Please write a function that receives X_train, y_train, and a list of models from a variable named models. The function trains all models using some gridsearch with different hyperparameters. The function should return the best model and then call the function and save it into a variable named best_model
+The dataframe is already split into X_train, X_test, y_train, y_test. 
+Please write a function that receives X_train, y_train. 
+The function trains all models using some gridsearch with different hyperparameters. 
+The function should return an object of the best model.

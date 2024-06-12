@@ -1,6 +1,8 @@
-Please provide a function that receives a dataframe named pdf and returns a string that explains each variable. You should also call that function in the code, and save it into a variable named exploration_string. I will write the output so we can proceed. The function should do  Data Exploration and Understanding:
+Please provide a function that receives a dataframe named pdf and returns a string that explains each variable.
+The function should do  Data Exploration and Understanding:
 Explore the dataset's structure, features, and target variable.
 Understand the distribution of features and the target variable.
 Identify any missing or erroneous data.
 The function should have no prints and return a string summary output.
+Identify all categorial and numerical features
 Call the function and save all output it into a variable named exploration_string
