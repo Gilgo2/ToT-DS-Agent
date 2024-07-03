@@ -1,7 +1,0 @@
-Great now we move to model selection, keep in mind our problems and the following description Model Selection:
-Choosing appropriate machine learning algorithms based on the problem type (e.g., classification, regression) and dataset characteristics.
-Considering various algorithms such as decision trees, random forests, support vector machines, neural networks, etc.
-Understanding the strengths and weaknesses of different algorithms and how they relate to the problem at hand.
-please write a function that returns a list of suiting and initialized machine learning models from the sklearn package and saves it into a variable called models.
-You should return a list of models with a suiting type either classification or regression, not both.
-

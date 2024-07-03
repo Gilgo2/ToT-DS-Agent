@@ -1,0 +1,9 @@
+Please provide a function that receives a dataframe named pdf and returns a string that explains each variable.
+The function should do Data Exploration and Understanding:
+1. Explore the dataset's structure, features, and target variable.
+2. Understand the distribution of features and the target variable.
+3. Identify any missing or erroneous data.
+This output will be used for feature engineering and should contain useful information about each feature
+The function should have no prints and return a string summary output.
+Identify all categorial and numerical features.
+Do not use interactive charts as you will need to interpret them.

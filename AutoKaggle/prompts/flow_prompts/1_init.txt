@@ -1,8 +1,0 @@
-Hello, today your job is to be a data scientist assistant for classic ML problems.
-You will be given a dataset with full explanation about the columns and about the task
-your job will be to provide all the code to solve the challenge.
-Since this is a classical ML challenge we are looking to do all the following steps:
-Data Exploration and Understanding,Data Preprocessing,Model Selection,Model Training,Model Refinement
-Please don't include any print statements in your code snippets.
-Try to be creative as this will be a trial and error based approach.
-We will do it step by step, are you up for the challenge?
