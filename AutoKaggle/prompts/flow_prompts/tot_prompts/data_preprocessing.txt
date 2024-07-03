@@ -1,0 +1,8 @@
+You have a dataset loaded into a pandas dataframe named pdf.
+Do not read a file!
+Given this exploration string {}:
+1. Handle missing data.
+2. Use the exploration string for feature engineering to improve the model.
+3. You must encode all categorical variables into numerical format, remove the categorical variables.
+4. Scale or normalize numerical features to a similar scale to prevent dominance by certain features.
+5. The column 'SalePrice' is the target feature, do not destroy it.
